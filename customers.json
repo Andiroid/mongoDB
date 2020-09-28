@@ -1,0 +1,14 @@
+{
+    "first_name":"Max",
+    "last_name":"Mustermann",
+    "memberships":["mem1", "mem2"],
+    "address":{
+        "street":"Haupstrasse",
+        "city":"Vienna",
+        "PLZ":"1010"
+    },
+    "contacts":[
+        {"name":"John", "status":"friend"},
+        {"name":"James", "status":"friend"}
+    ]
+}
